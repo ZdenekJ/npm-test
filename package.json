@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "npmTest": "git+https://github.com/ZdenekJ/npm-test-second.git#1.0.0"
+    "npmTest-second": "git+https://github.com/ZdenekJ/npm-test-second.git#1.0.0"
   },
   "repository": {
     "type": "git",
